@@ -1,2 +1,2 @@
 # ml-experiments
-Machine Learning and Data mining
+Machine Learning and Data mining in Python
